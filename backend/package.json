@@ -1,0 +1,24 @@
+{
+  "name": "food_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "cors": "^2.8.5",
+    "database": "^0.0.2",
+    "database.js": "^0.0.1",
+    "express": "^4.18.2",
+    "express-validator": "^6.14.3",
+    "jsonwebtoken": "^9.0.0",
+    "mongodb": "^4.13.0",
+    "mongoose": "^6.8.4",
+    "nodemailer": "^6.9.0"
+  }
+}
